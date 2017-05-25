@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\example\\build\\intermediates\\res\\merged\\debug\\color\\wallet_base_dialog_btntext_color_selector.xml",
+        "source": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\example\\build\\intermediates\\exploded-aar\\MyApplication.lib\\bdwallet_pay_sdk\\unspecified\\res\\color\\wallet_base_dialog_btntext_color_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\example\\build\\intermediates\\res\\merged\\debug\\color\\wallet_base_click_text_color.xml",
+        "source": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\example\\build\\intermediates\\exploded-aar\\MyApplication.lib\\bdwallet_pay_sdk\\unspecified\\res\\color\\wallet_base_click_text_color.xml"
+    }
+]

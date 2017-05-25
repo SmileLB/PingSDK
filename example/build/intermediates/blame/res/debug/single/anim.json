@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\example\\build\\intermediates\\res\\merged\\debug\\anim\\wallet_base_slide_to_right.xml",
+        "source": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\example\\build\\intermediates\\exploded-aar\\MyApplication.lib\\bdwallet_pay_sdk\\unspecified\\res\\anim\\wallet_base_slide_to_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\example\\build\\intermediates\\res\\merged\\debug\\anim\\ebpay_slide_to_left.xml",
+        "source": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\example\\build\\intermediates\\exploded-aar\\MyApplication.lib\\bdwallet_pay_sdk\\unspecified\\res\\anim\\ebpay_slide_to_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\example\\build\\intermediates\\res\\merged\\debug\\anim\\wallet_base_slide_from_right.xml",
+        "source": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\example\\build\\intermediates\\exploded-aar\\MyApplication.lib\\bdwallet_pay_sdk\\unspecified\\res\\anim\\wallet_base_slide_from_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\example\\build\\intermediates\\res\\merged\\debug\\anim\\ebpay_slide_to_right.xml",
+        "source": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\example\\build\\intermediates\\exploded-aar\\MyApplication.lib\\bdwallet_pay_sdk\\unspecified\\res\\anim\\ebpay_slide_to_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\example\\build\\intermediates\\res\\merged\\debug\\anim\\wallet_base_slide_to_left.xml",
+        "source": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\example\\build\\intermediates\\exploded-aar\\MyApplication.lib\\bdwallet_pay_sdk\\unspecified\\res\\anim\\wallet_base_slide_to_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\example\\build\\intermediates\\res\\merged\\debug\\anim\\wallet_base_show_dialog_anim.xml",
+        "source": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\example\\build\\intermediates\\exploded-aar\\MyApplication.lib\\bdwallet_pay_sdk\\unspecified\\res\\anim\\wallet_base_show_dialog_anim.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\example\\build\\intermediates\\res\\merged\\debug\\anim\\dialog_enter.xml",
+        "source": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\example\\build\\intermediates\\exploded-aar\\MyApplication.lib\\pingpp_one\\unspecified\\res\\anim\\dialog_enter.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\example\\build\\intermediates\\res\\merged\\debug\\anim\\wallet_base_dismiss_dialog_anim.xml",
+        "source": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\example\\build\\intermediates\\exploded-aar\\MyApplication.lib\\bdwallet_pay_sdk\\unspecified\\res\\anim\\wallet_base_dismiss_dialog_anim.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\example\\build\\intermediates\\res\\merged\\debug\\anim\\dialog_exit.xml",
+        "source": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\example\\build\\intermediates\\exploded-aar\\MyApplication.lib\\pingpp_one\\unspecified\\res\\anim\\dialog_exit.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\example\\build\\intermediates\\res\\merged\\debug\\anim\\ebpay_slide_from_right.xml",
+        "source": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\example\\build\\intermediates\\exploded-aar\\MyApplication.lib\\bdwallet_pay_sdk\\unspecified\\res\\anim\\ebpay_slide_from_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\example\\build\\intermediates\\res\\merged\\debug\\anim\\wallet_base_slide_from_left.xml",
+        "source": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\example\\build\\intermediates\\exploded-aar\\MyApplication.lib\\bdwallet_pay_sdk\\unspecified\\res\\anim\\wallet_base_slide_from_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\example\\build\\intermediates\\res\\merged\\debug\\anim\\cmbkb_push_bottom_in.xml",
+        "source": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\example\\build\\intermediates\\exploded-aar\\MyApplication.lib\\pingpp\\unspecified\\res\\anim\\cmbkb_push_bottom_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\example\\build\\intermediates\\res\\merged\\debug\\anim\\ebpay_slide_from_left.xml",
+        "source": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\example\\build\\intermediates\\exploded-aar\\MyApplication.lib\\bdwallet_pay_sdk\\unspecified\\res\\anim\\ebpay_slide_from_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\example\\build\\intermediates\\res\\merged\\debug\\anim\\cmbkb_push_bottom_out.xml",
+        "source": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\example\\build\\intermediates\\exploded-aar\\MyApplication.lib\\pingpp\\unspecified\\res\\anim\\cmbkb_push_bottom_out.xml"
+    }
+]

@@ -1,0 +1,545 @@
+[
+    {
+        "outputFile": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\lib\\pingpp_one\\build\\intermediates\\res\\merged\\androidTest\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 40,
+                    "endOffset": 91
+                },
+                "from": {
+                    "file": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\lib\\pingpp_one\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 40,
+                        "endOffset": 91
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 96,
+                    "endColumn": 41,
+                    "endOffset": 133
+                },
+                "from": {
+                    "file": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\lib\\pingpp_one\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 96,
+                        "endColumn": 41,
+                        "endOffset": 133
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 717,
+                    "endColumn": 54,
+                    "endOffset": 767
+                },
+                "from": {
+                    "file": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\lib\\pingpp_one\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 717,
+                        "endColumn": 54,
+                        "endOffset": 767
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 772,
+                    "endColumn": 45,
+                    "endOffset": 813
+                },
+                "from": {
+                    "file": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\lib\\pingpp_one\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 772,
+                        "endColumn": 45,
+                        "endOffset": 813
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 818,
+                    "endColumn": 57,
+                    "endOffset": 871
+                },
+                "from": {
+                    "file": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\lib\\pingpp_one\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 818,
+                        "endColumn": 57,
+                        "endOffset": 871
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 876,
+                    "endColumn": 43,
+                    "endOffset": 915
+                },
+                "from": {
+                    "file": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\lib\\pingpp_one\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 876,
+                        "endColumn": 43,
+                        "endOffset": 915
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 920,
+                    "endColumn": 47,
+                    "endOffset": 963
+                },
+                "from": {
+                    "file": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\lib\\pingpp_one\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 920,
+                        "endColumn": 47,
+                        "endOffset": 963
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 968,
+                    "endColumn": 46,
+                    "endOffset": 1010
+                },
+                "from": {
+                    "file": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\lib\\pingpp_one\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 968,
+                        "endColumn": 46,
+                        "endOffset": 1010
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 1015,
+                    "endColumn": 52,
+                    "endOffset": 1063
+                },
+                "from": {
+                    "file": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\lib\\pingpp_one\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1015,
+                        "endColumn": 52,
+                        "endOffset": 1063
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1068,
+                    "endColumn": 60,
+                    "endOffset": 1124
+                },
+                "from": {
+                    "file": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\lib\\pingpp_one\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1068,
+                        "endColumn": 60,
+                        "endOffset": 1124
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1129,
+                    "endColumn": 51,
+                    "endOffset": 1176
+                },
+                "from": {
+                    "file": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\lib\\pingpp_one\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1129,
+                        "endColumn": 51,
+                        "endOffset": 1176
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1181,
+                    "endColumn": 49,
+                    "endOffset": 1226
+                },
+                "from": {
+                    "file": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\lib\\pingpp_one\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1181,
+                        "endColumn": 49,
+                        "endOffset": 1226
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1231,
+                    "endColumn": 51,
+                    "endOffset": 1278
+                },
+                "from": {
+                    "file": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\lib\\pingpp_one\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1231,
+                        "endColumn": 51,
+                        "endOffset": 1278
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1283,
+                    "endColumn": 54,
+                    "endOffset": 1333
+                },
+                "from": {
+                    "file": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\lib\\pingpp_one\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1283,
+                        "endColumn": 54,
+                        "endOffset": 1333
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1338,
+                    "endColumn": 50,
+                    "endOffset": 1384
+                },
+                "from": {
+                    "file": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\lib\\pingpp_one\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1338,
+                        "endColumn": 50,
+                        "endOffset": 1384
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1389,
+                    "endColumn": 50,
+                    "endOffset": 1435
+                },
+                "from": {
+                    "file": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\lib\\pingpp_one\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1389,
+                        "endColumn": 50,
+                        "endOffset": 1435
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1440,
+                    "endColumn": 63,
+                    "endOffset": 1499
+                },
+                "from": {
+                    "file": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\lib\\pingpp_one\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1440,
+                        "endColumn": 63,
+                        "endOffset": 1499
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1504,
+                    "endColumn": 56,
+                    "endOffset": 1556
+                },
+                "from": {
+                    "file": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\lib\\pingpp_one\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1504,
+                        "endColumn": 56,
+                        "endOffset": 1556
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1561,
+                    "endColumn": 65,
+                    "endOffset": 1622
+                },
+                "from": {
+                    "file": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\lib\\pingpp_one\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1561,
+                        "endColumn": 65,
+                        "endOffset": 1622
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1627,
+                    "endColumn": 64,
+                    "endOffset": 1687
+                },
+                "from": {
+                    "file": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\lib\\pingpp_one\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1627,
+                        "endColumn": 64,
+                        "endOffset": 1687
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1692,
+                    "endColumn": 68,
+                    "endOffset": 1756
+                },
+                "from": {
+                    "file": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\lib\\pingpp_one\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1692,
+                        "endColumn": 68,
+                        "endOffset": 1756
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1761,
+                    "endColumn": 62,
+                    "endOffset": 1819
+                },
+                "from": {
+                    "file": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\lib\\pingpp_one\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1761,
+                        "endColumn": 62,
+                        "endOffset": 1819
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1824,
+                    "endColumn": 45,
+                    "endOffset": 1865
+                },
+                "from": {
+                    "file": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\lib\\pingpp_one\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1824,
+                        "endColumn": 45,
+                        "endOffset": 1865
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1870,
+                    "endColumn": 46,
+                    "endOffset": 1912
+                },
+                "from": {
+                    "file": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\lib\\pingpp_one\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1870,
+                        "endColumn": 46,
+                        "endOffset": 1912
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1917,
+                    "endColumn": 50,
+                    "endOffset": 1963
+                },
+                "from": {
+                    "file": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\lib\\pingpp_one\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1917,
+                        "endColumn": 50,
+                        "endOffset": 1963
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1968,
+                    "endLine": 30,
+                    "endColumn": 12,
+                    "endOffset": 2052
+                },
+                "from": {
+                    "file": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\lib\\pingpp_one\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 1968,
+                        "endLine": 30,
+                        "endColumn": 12,
+                        "endOffset": 2052
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 2057,
+                    "endLine": 35,
+                    "endColumn": 12,
+                    "endOffset": 2308
+                },
+                "from": {
+                    "file": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\lib\\pingpp_one\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 2057,
+                        "endLine": 35,
+                        "endColumn": 12,
+                        "endOffset": 2308
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 2313,
+                    "endLine": 39,
+                    "endColumn": 12,
+                    "endOffset": 2527
+                },
+                "from": {
+                    "file": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\lib\\pingpp_one\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 4,
+                        "startOffset": 2313,
+                        "endLine": 39,
+                        "endColumn": 12,
+                        "endOffset": 2527
+                    }
+                }
+            }
+        ]
+    }
+]

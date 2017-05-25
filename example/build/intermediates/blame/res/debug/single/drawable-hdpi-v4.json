@@ -1,0 +1,366 @@
+[
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\example\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\wallet_base_pwdpay_logo_normal.png",
+        "source": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\example\\build\\intermediates\\exploded-aar\\MyApplication.lib\\bdwallet_pay_sdk\\unspecified\\res\\drawable-hdpi-v4\\wallet_base_pwdpay_logo_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\example\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\wallet_base_clear_pressed.png",
+        "source": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\example\\build\\intermediates\\exploded-aar\\MyApplication.lib\\bdwallet_pay_sdk\\unspecified\\res\\drawable-hdpi-v4\\wallet_base_clear_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\example\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\wallet_base_pwdpay_close_pressed.png",
+        "source": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\example\\build\\intermediates\\exploded-aar\\MyApplication.lib\\bdwallet_pay_sdk\\unspecified\\res\\drawable-hdpi-v4\\wallet_base_pwdpay_close_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\example\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\wallet_base_btn_disable.9.png",
+        "source": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\example\\build\\intermediates\\exploded-aar\\MyApplication.lib\\bdwallet_pay_sdk\\unspecified\\res\\drawable-hdpi-v4\\wallet_base_btn_disable.9.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\example\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\wallet_base_bottom_1_none.9.png",
+        "source": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\example\\build\\intermediates\\exploded-aar\\MyApplication.lib\\bdwallet_pay_sdk\\unspecified\\res\\drawable-hdpi-v4\\wallet_base_bottom_1_none.9.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\example\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cmbkb_btn_pressed.9.png",
+        "source": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\example\\build\\intermediates\\exploded-aar\\MyApplication.lib\\pingpp\\unspecified\\res\\drawable-hdpi-v4\\cmbkb_btn_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\example\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cmbkb_emotionstore_progresscancelbtn.png",
+        "source": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\example\\build\\intermediates\\exploded-aar\\MyApplication.lib\\pingpp\\unspecified\\res\\drawable-hdpi-v4\\cmbkb_emotionstore_progresscancelbtn.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\example\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\wallet_base_result_success.png",
+        "source": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\example\\build\\intermediates\\exploded-aar\\MyApplication.lib\\bdwallet_pay_sdk\\unspecified\\res\\drawable-hdpi-v4\\wallet_base_result_success.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\example\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tips_bg.9.png",
+        "source": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\example\\build\\intermediates\\exploded-aar\\MyApplication.lib\\pingpp\\unspecified\\res\\drawable-hdpi-v4\\tips_bg.9.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\example\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\wallet_base_bank_item_bg.9.png",
+        "source": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\example\\build\\intermediates\\exploded-aar\\MyApplication.lib\\bdwallet_pay_sdk\\unspecified\\res\\drawable-hdpi-v4\\wallet_base_bank_item_bg.9.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\example\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\wallet_base_dialog_singlebtn_press.9.png",
+        "source": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\example\\build\\intermediates\\exploded-aar\\MyApplication.lib\\bdwallet_pay_sdk\\unspecified\\res\\drawable-hdpi-v4\\wallet_base_dialog_singlebtn_press.9.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\example\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cmbkb_space_dark.png",
+        "source": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\example\\build\\intermediates\\exploded-aar\\MyApplication.lib\\pingpp\\unspecified\\res\\drawable-hdpi-v4\\cmbkb_space_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\example\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ebpay_bg_check_box_seletor.png",
+        "source": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\example\\build\\intermediates\\exploded-aar\\MyApplication.lib\\bdwallet_pay_sdk\\unspecified\\res\\drawable-hdpi-v4\\ebpay_bg_check_box_seletor.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\example\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\textfield_default_holo_dark.9.png",
+        "source": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\example\\res\\drawable-hdpi\\textfield_default_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\example\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\wallet_base_bottom_1_hover.9.png",
+        "source": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\example\\build\\intermediates\\exploded-aar\\MyApplication.lib\\bdwallet_pay_sdk\\unspecified\\res\\drawable-hdpi-v4\\wallet_base_bottom_1_hover.9.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\example\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\wallet_base_pwdpay_logo_disable.png",
+        "source": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\example\\build\\intermediates\\exploded-aar\\MyApplication.lib\\bdwallet_pay_sdk\\unspecified\\res\\drawable-hdpi-v4\\wallet_base_pwdpay_logo_disable.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\example\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cmbkb_space.png",
+        "source": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\example\\build\\intermediates\\exploded-aar\\MyApplication.lib\\pingpp\\unspecified\\res\\drawable-hdpi-v4\\cmbkb_space.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\example\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\wallet_base_bg_input_tip.9.png",
+        "source": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\example\\build\\intermediates\\exploded-aar\\MyApplication.lib\\bdwallet_pay_sdk\\unspecified\\res\\drawable-hdpi-v4\\wallet_base_bg_input_tip.9.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\example\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\wallet_base_refresh_loading_small_img.png",
+        "source": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\example\\build\\intermediates\\exploded-aar\\MyApplication.lib\\bdwallet_pay_sdk\\unspecified\\res\\drawable-hdpi-v4\\wallet_base_refresh_loading_small_img.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\example\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon.png",
+        "source": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\example\\res\\drawable-hdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\example\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\textfield_disabled_holo_dark.9.png",
+        "source": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\example\\res\\drawable-hdpi\\textfield_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\example\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pingpp_back.png",
+        "source": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\example\\build\\intermediates\\exploded-aar\\MyApplication.lib\\pingpp\\unspecified\\res\\drawable-hdpi-v4\\pingpp_back.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\example\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ebpay_pwdpay_next_gray.png",
+        "source": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\example\\build\\intermediates\\exploded-aar\\MyApplication.lib\\bdwallet_pay_sdk\\unspecified\\res\\drawable-hdpi-v4\\ebpay_pwdpay_next_gray.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\example\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\wallet_base_result_success_benefit.9.png",
+        "source": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\example\\build\\intermediates\\exploded-aar\\MyApplication.lib\\bdwallet_pay_sdk\\unspecified\\res\\drawable-hdpi-v4\\wallet_base_result_success_benefit.9.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\example\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\wallet_base_result_fail.png",
+        "source": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\example\\build\\intermediates\\exploded-aar\\MyApplication.lib\\bdwallet_pay_sdk\\unspecified\\res\\drawable-hdpi-v4\\wallet_base_result_fail.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\example\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\wallet_base_neg_btn_normal.9.png",
+        "source": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\example\\build\\intermediates\\exploded-aar\\MyApplication.lib\\bdwallet_pay_sdk\\unspecified\\res\\drawable-hdpi-v4\\wallet_base_neg_btn_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\example\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pinus.png",
+        "source": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\example\\res\\drawable-hdpi\\pinus.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\example\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\wallet_base_info.png",
+        "source": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\example\\build\\intermediates\\exploded-aar\\MyApplication.lib\\bdwallet_pay_sdk\\unspecified\\res\\drawable-hdpi-v4\\wallet_base_info.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\example\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\wallet_base_delete_pressed.png",
+        "source": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\example\\build\\intermediates\\exploded-aar\\MyApplication.lib\\bdwallet_pay_sdk\\unspecified\\res\\drawable-hdpi-v4\\wallet_base_delete_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\example\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\wallet_base_indicator_arrow.png",
+        "source": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\example\\build\\intermediates\\exploded-aar\\MyApplication.lib\\bdwallet_pay_sdk\\unspecified\\res\\drawable-hdpi-v4\\wallet_base_indicator_arrow.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\example\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\wallet_base_action_bar_back_pressed.png",
+        "source": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\example\\build\\intermediates\\exploded-aar\\MyApplication.lib\\bdwallet_pay_sdk\\unspecified\\res\\drawable-hdpi-v4\\wallet_base_action_bar_back_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\example\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\wallet_base_action_bar_back_normal.png",
+        "source": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\example\\build\\intermediates\\exploded-aar\\MyApplication.lib\\bdwallet_pay_sdk\\unspecified\\res\\drawable-hdpi-v4\\wallet_base_action_bar_back_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\example\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ebpay_bg_check_box.png",
+        "source": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\example\\build\\intermediates\\exploded-aar\\MyApplication.lib\\bdwallet_pay_sdk\\unspecified\\res\\drawable-hdpi-v4\\ebpay_bg_check_box.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\example\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\wallet_base_six_no_bg_left.9.png",
+        "source": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\example\\build\\intermediates\\exploded-aar\\MyApplication.lib\\bdwallet_pay_sdk\\unspecified\\res\\drawable-hdpi-v4\\wallet_base_six_no_bg_left.9.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\example\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\wallet_base_loading_img_gray.png",
+        "source": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\example\\build\\intermediates\\exploded-aar\\MyApplication.lib\\bdwallet_pay_sdk\\unspecified\\res\\drawable-hdpi-v4\\wallet_base_loading_img_gray.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\example\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\wallet_base_loading_img.png",
+        "source": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\example\\build\\intermediates\\exploded-aar\\MyApplication.lib\\bdwallet_pay_sdk\\unspecified\\res\\drawable-hdpi-v4\\wallet_base_loading_img.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\example\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\textfield_disabled_focused_holo_dark.9.png",
+        "source": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\example\\res\\drawable-hdpi\\textfield_disabled_focused_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\example\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\example\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\example\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ebpay_sec_icon.png",
+        "source": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\example\\build\\intermediates\\exploded-aar\\MyApplication.lib\\bdwallet_pay_sdk\\unspecified\\res\\drawable-hdpi-v4\\ebpay_sec_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\example\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\wallet_base_pwdpay_submit_bg_normal.9.png",
+        "source": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\example\\build\\intermediates\\exploded-aar\\MyApplication.lib\\bdwallet_pay_sdk\\unspecified\\res\\drawable-hdpi-v4\\wallet_base_pwdpay_submit_bg_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\example\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\wallet_base_refresh_loading_img.png",
+        "source": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\example\\build\\intermediates\\exploded-aar\\MyApplication.lib\\bdwallet_pay_sdk\\unspecified\\res\\drawable-hdpi-v4\\wallet_base_refresh_loading_img.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\example\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cmbkb_key_delete_normal.png",
+        "source": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\example\\build\\intermediates\\exploded-aar\\MyApplication.lib\\pingpp\\unspecified\\res\\drawable-hdpi-v4\\cmbkb_key_delete_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\example\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\wallet_base_pwdpay_activity_bg.9.png",
+        "source": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\example\\build\\intermediates\\exploded-aar\\MyApplication.lib\\bdwallet_pay_sdk\\unspecified\\res\\drawable-hdpi-v4\\wallet_base_pwdpay_activity_bg.9.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\example\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\wallet_base_password_bg.png",
+        "source": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\example\\build\\intermediates\\exploded-aar\\MyApplication.lib\\bdwallet_pay_sdk\\unspecified\\res\\drawable-hdpi-v4\\wallet_base_password_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\example\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cmbkb_shift_dark_normal.png",
+        "source": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\example\\build\\intermediates\\exploded-aar\\MyApplication.lib\\pingpp\\unspecified\\res\\drawable-hdpi-v4\\cmbkb_shift_dark_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\example\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\wallet_base_neg_btn_pressed.9.png",
+        "source": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\example\\build\\intermediates\\exploded-aar\\MyApplication.lib\\bdwallet_pay_sdk\\unspecified\\res\\drawable-hdpi-v4\\wallet_base_neg_btn_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\example\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\wallet_base_six_no_bg_right.9.png",
+        "source": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\example\\build\\intermediates\\exploded-aar\\MyApplication.lib\\bdwallet_pay_sdk\\unspecified\\res\\drawable-hdpi-v4\\wallet_base_six_no_bg_right.9.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\example\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\wallet_base_dashed_shape_press.png",
+        "source": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\example\\build\\intermediates\\exploded-aar\\MyApplication.lib\\bdwallet_pay_sdk\\unspecified\\res\\drawable-hdpi-v4\\wallet_base_dashed_shape_press.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\example\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\textfield_activated_holo_dark.9.png",
+        "source": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\example\\res\\drawable-hdpi\\textfield_activated_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\example\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\wallet_base_dialog_rightbtn_press.9.png",
+        "source": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\example\\build\\intermediates\\exploded-aar\\MyApplication.lib\\bdwallet_pay_sdk\\unspecified\\res\\drawable-hdpi-v4\\wallet_base_dialog_rightbtn_press.9.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\example\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\wallet_base_pwdpay_submit_bg_disable.9.png",
+        "source": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\example\\build\\intermediates\\exploded-aar\\MyApplication.lib\\bdwallet_pay_sdk\\unspecified\\res\\drawable-hdpi-v4\\wallet_base_pwdpay_submit_bg_disable.9.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\example\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\wallet_base_dialog_bg.9.png",
+        "source": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\example\\build\\intermediates\\exploded-aar\\MyApplication.lib\\bdwallet_pay_sdk\\unspecified\\res\\drawable-hdpi-v4\\wallet_base_dialog_bg.9.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\example\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cmbkb_bg.9.png",
+        "source": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\example\\build\\intermediates\\exploded-aar\\MyApplication.lib\\pingpp\\unspecified\\res\\drawable-hdpi-v4\\cmbkb_bg.9.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\example\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ebpay_title_v_line.9.png",
+        "source": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\example\\build\\intermediates\\exploded-aar\\MyApplication.lib\\bdwallet_pay_sdk\\unspecified\\res\\drawable-hdpi-v4\\ebpay_title_v_line.9.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\example\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\wallet_base_tab_bar_bg.9.png",
+        "source": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\example\\build\\intermediates\\exploded-aar\\MyApplication.lib\\bdwallet_pay_sdk\\unspecified\\res\\drawable-hdpi-v4\\wallet_base_tab_bar_bg.9.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\example\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\wallet_base_pwdpay_close_normal.png",
+        "source": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\example\\build\\intermediates\\exploded-aar\\MyApplication.lib\\bdwallet_pay_sdk\\unspecified\\res\\drawable-hdpi-v4\\wallet_base_pwdpay_close_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\example\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ebpay_help_date.png",
+        "source": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\example\\build\\intermediates\\exploded-aar\\MyApplication.lib\\bdwallet_pay_sdk\\unspecified\\res\\drawable-hdpi-v4\\ebpay_help_date.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\example\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon3.png",
+        "source": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\example\\res\\drawable-hdpi\\icon3.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\example\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\wallet_base_broken_line.png",
+        "source": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\example\\build\\intermediates\\exploded-aar\\MyApplication.lib\\bdwallet_pay_sdk\\unspecified\\res\\drawable-hdpi-v4\\wallet_base_broken_line.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\example\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cmbkb_shift_actived.png",
+        "source": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\example\\build\\intermediates\\exploded-aar\\MyApplication.lib\\pingpp\\unspecified\\res\\drawable-hdpi-v4\\cmbkb_shift_actived.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\example\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\wallet_base_black_point_in_pwd.png",
+        "source": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\example\\build\\intermediates\\exploded-aar\\MyApplication.lib\\bdwallet_pay_sdk\\unspecified\\res\\drawable-hdpi-v4\\wallet_base_black_point_in_pwd.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\example\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\wallet_base_toast_bg.9.png",
+        "source": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\example\\build\\intermediates\\exploded-aar\\MyApplication.lib\\bdwallet_pay_sdk\\unspecified\\res\\drawable-hdpi-v4\\wallet_base_toast_bg.9.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\example\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cmbkb_shift_normal.png",
+        "source": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\example\\build\\intermediates\\exploded-aar\\MyApplication.lib\\pingpp\\unspecified\\res\\drawable-hdpi-v4\\cmbkb_shift_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\example\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\wallet_base_pwdpay_title_bg.9.png",
+        "source": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\example\\build\\intermediates\\exploded-aar\\MyApplication.lib\\bdwallet_pay_sdk\\unspecified\\res\\drawable-hdpi-v4\\wallet_base_pwdpay_title_bg.9.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\example\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\wallet_base_bottom_1.9.png",
+        "source": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\example\\build\\intermediates\\exploded-aar\\MyApplication.lib\\bdwallet_pay_sdk\\unspecified\\res\\drawable-hdpi-v4\\wallet_base_bottom_1.9.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\example\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\wallet_base_bank_item_hover_bg.9.png",
+        "source": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\example\\build\\intermediates\\exploded-aar\\MyApplication.lib\\bdwallet_pay_sdk\\unspecified\\res\\drawable-hdpi-v4\\wallet_base_bank_item_hover_bg.9.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\example\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\textfield_focused_holo_dark.9.png",
+        "source": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\example\\res\\drawable-hdpi\\textfield_focused_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\example\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\wallet_base_btn_pressed_on.png",
+        "source": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\example\\build\\intermediates\\exploded-aar\\MyApplication.lib\\bdwallet_pay_sdk\\unspecified\\res\\drawable-hdpi-v4\\wallet_base_btn_pressed_on.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\example\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cmbkb_list_separator.png",
+        "source": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\example\\build\\intermediates\\exploded-aar\\MyApplication.lib\\pingpp\\unspecified\\res\\drawable-hdpi-v4\\cmbkb_list_separator.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\example\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ebpay_help_cvv.png",
+        "source": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\example\\build\\intermediates\\exploded-aar\\MyApplication.lib\\bdwallet_pay_sdk\\unspecified\\res\\drawable-hdpi-v4\\ebpay_help_cvv.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\example\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ebpay_pwdpay_save_tip_bg.9.png",
+        "source": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\example\\build\\intermediates\\exploded-aar\\MyApplication.lib\\bdwallet_pay_sdk\\unspecified\\res\\drawable-hdpi-v4\\ebpay_pwdpay_save_tip_bg.9.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\example\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cmbkb_btn_normal.9.png",
+        "source": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\example\\build\\intermediates\\exploded-aar\\MyApplication.lib\\pingpp\\unspecified\\res\\drawable-hdpi-v4\\cmbkb_btn_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\example\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\wallet_base_bg_input_normal.9.png",
+        "source": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\example\\build\\intermediates\\exploded-aar\\MyApplication.lib\\bdwallet_pay_sdk\\unspecified\\res\\drawable-hdpi-v4\\wallet_base_bg_input_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\example\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\wallet_base_clear_normal.png",
+        "source": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\example\\build\\intermediates\\exploded-aar\\MyApplication.lib\\bdwallet_pay_sdk\\unspecified\\res\\drawable-hdpi-v4\\wallet_base_clear_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\example\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\wallet_base_bg_input_error.9.png",
+        "source": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\example\\build\\intermediates\\exploded-aar\\MyApplication.lib\\bdwallet_pay_sdk\\unspecified\\res\\drawable-hdpi-v4\\wallet_base_bg_input_error.9.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\example\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\wallet_base_btn_default_off.png",
+        "source": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\example\\build\\intermediates\\exploded-aar\\MyApplication.lib\\bdwallet_pay_sdk\\unspecified\\res\\drawable-hdpi-v4\\wallet_base_btn_default_off.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\example\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cmbkb_backspace_icon.png",
+        "source": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\example\\build\\intermediates\\exploded-aar\\MyApplication.lib\\pingpp\\unspecified\\res\\drawable-hdpi-v4\\cmbkb_backspace_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\example\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ebpay_login_btn_pressed.9.png",
+        "source": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\example\\build\\intermediates\\exploded-aar\\MyApplication.lib\\bdwallet_pay_sdk\\unspecified\\res\\drawable-hdpi-v4\\ebpay_login_btn_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\example\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\home.png",
+        "source": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\example\\res\\drawable-hdpi\\home.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\example\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon2.png",
+        "source": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\example\\res\\drawable-hdpi\\icon2.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\example\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cmbkb_logo.png",
+        "source": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\example\\build\\intermediates\\exploded-aar\\MyApplication.lib\\pingpp\\unspecified\\res\\drawable-hdpi-v4\\cmbkb_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\example\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\wallet_base_delete_normal.png",
+        "source": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\example\\build\\intermediates\\exploded-aar\\MyApplication.lib\\bdwallet_pay_sdk\\unspecified\\res\\drawable-hdpi-v4\\wallet_base_delete_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\example\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\wallet_base_pwdpay_submit_bg_pressed.9.png",
+        "source": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\example\\build\\intermediates\\exploded-aar\\MyApplication.lib\\bdwallet_pay_sdk\\unspecified\\res\\drawable-hdpi-v4\\wallet_base_pwdpay_submit_bg_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\example\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\wallet_base_info_hover.png",
+        "source": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\example\\build\\intermediates\\exploded-aar\\MyApplication.lib\\bdwallet_pay_sdk\\unspecified\\res\\drawable-hdpi-v4\\wallet_base_info_hover.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\example\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\wallet_base_dialog_leftbtn_press.9.png",
+        "source": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\example\\build\\intermediates\\exploded-aar\\MyApplication.lib\\bdwallet_pay_sdk\\unspecified\\res\\drawable-hdpi-v4\\wallet_base_dialog_leftbtn_press.9.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\example\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\wallet_base_pwdpay_banklist_bg.9.png",
+        "source": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\example\\build\\intermediates\\exploded-aar\\MyApplication.lib\\bdwallet_pay_sdk\\unspecified\\res\\drawable-hdpi-v4\\wallet_base_pwdpay_banklist_bg.9.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\example\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cmbkb_sym_keyboard_space.png",
+        "source": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\example\\build\\intermediates\\exploded-aar\\MyApplication.lib\\pingpp\\unspecified\\res\\drawable-hdpi-v4\\cmbkb_sym_keyboard_space.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\example\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cmbkb_backspace_dark_icon.png",
+        "source": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\example\\build\\intermediates\\exploded-aar\\MyApplication.lib\\pingpp\\unspecified\\res\\drawable-hdpi-v4\\cmbkb_backspace_dark_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\example\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\wallet_base_six_no_bg_midle.9.png",
+        "source": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\example\\build\\intermediates\\exploded-aar\\MyApplication.lib\\bdwallet_pay_sdk\\unspecified\\res\\drawable-hdpi-v4\\wallet_base_six_no_bg_midle.9.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\example\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\wallet_base_banklogo_defult.png",
+        "source": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\example\\build\\intermediates\\exploded-aar\\MyApplication.lib\\bdwallet_pay_sdk\\unspecified\\res\\drawable-hdpi-v4\\wallet_base_banklogo_defult.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\example\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\wallet_base_dashed_shape_normal.png",
+        "source": "C:\\Users\\admin\\Desktop\\Ping++SDK\\MyApplication\\example\\build\\intermediates\\exploded-aar\\MyApplication.lib\\bdwallet_pay_sdk\\unspecified\\res\\drawable-hdpi-v4\\wallet_base_dashed_shape_normal.png"
+    }
+]
